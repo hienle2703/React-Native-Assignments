@@ -1,5 +1,5 @@
 # React-Native-Example-Project
-Just a place to store the link to 5 child projects:
+Just a place to store links to 5 child projects:
 
 1/ https://github.com/hienle2703/ReactNativeAssignmentWeek1
 2/ https://github.com/hienle2703/ReactNativeAssignmentWeek2
